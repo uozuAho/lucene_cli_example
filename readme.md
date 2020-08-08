@@ -1,6 +1,7 @@
 # Lucene text file search example
 
-Full-text and tag-based searching of arbitrary directories and files.
+A console app that indexes text files in a directory tree, allowing full text
+and tag based search. Uses Lucene.
 
 
 ## Development
@@ -40,6 +41,7 @@ Some examples:
 
 
 ## References
+
 - http://shaierera.blogspot.com/2016/01/indexing-tagged-data-with-lucene.html
 - https://lucene.apache.org/core/8_4_1/core/index.html has some demos
 - http://intelligiblebabble.com/custom-lucene-tokenizer-for-tech-keywords/
